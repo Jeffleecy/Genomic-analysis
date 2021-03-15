@@ -1,4 +1,4 @@
-##Analysis of the effect of dexamethasone on gene expression
+##Analysis of the effect of dexamethasone on gene set expression
 
 #1 look at the data structure
 ```{r}
